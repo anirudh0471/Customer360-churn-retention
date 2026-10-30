@@ -1,0 +1,13 @@
+# Dataset files
+data/*.csv
+
+# Database
+*.db
+*.sqbpro
+
+# Power BI file
+*.pbix
+
+# Python cache
+__pycache__/
+*.py[cod]
