@@ -1,0 +1,21 @@
+# Customer 360 — Day 4 Business Insights
+
+## Analysis: Customer Churn by Payment Method
+
+### Key Findings
+- Electronic check: 2,365 customers, 1,071 churned, 45.29% churn rate.
+- Mailed check: 1,612 customers, 308 churned, 19.11% churn rate.
+- Automatic bank transfer: 1,544 customers, 258 churned, 16.71% churn rate.
+- Automatic credit card: 1,522 customers, 232 churned, 15.24% churn rate.
+
+### Business Insight
+Customers paying by electronic check have the highest observed churn rate. Customers using automatic credit-card payments have the lowest observed churn rate among the four payment methods.
+
+### Recommendation
+Investigate why electronic-check customers leave. Review their contract types, tenure, service experience, and billing complaints. Consider testing optional automatic-payment enrollment assistance and retention offers.
+
+### Important Limitation
+These findings show an association between payment method and churn. They do not establish that the payment method itself causes churn.
+
+### Status
+Day 4 payment-method analysis completed.
