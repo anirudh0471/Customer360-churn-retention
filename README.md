@@ -71,6 +71,7 @@ Electronic-check customers have the highest observed churn rate among the paymen
 These findings show associations in the dataset and do not establish that contract type or payment method causes churn.
 
 ## Power BI Dashboard
+![Customer 360 Power BI Dashboard](images/customer360_dashboard.png)
 
 The dashboard includes:
 - Total Customers
